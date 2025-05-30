@@ -1,0 +1,22 @@
+# ===== IGNORAR ARQUIVOS TEMPORÁRIOS E DESNECESSÁRIOS =====
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente (variáveis secretas)
+*.env
+*.key
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
