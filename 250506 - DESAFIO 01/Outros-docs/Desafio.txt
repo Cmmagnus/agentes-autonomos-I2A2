@@ -1,0 +1,32 @@
+Desafio
+
+Atividade 01 - Analisar textos em outra língua.
+
+- Analise cada um dos texto. Você conseguiria dizer do que se trata?
+- Use pelo menos 4LLMs para traduzir e resumir o texto.
+- Tente responder as seguintes perguntas:
+	1 - O que deu certo?
+	2 - O que não deu certo?
+	3 - A tradução faz sentido?
+	4 - E o resumo?
+	5 - Quem foi o autor do texto?
+
+Atividade 02 - Qual é o equipamento defeituoso?
+
+- Na planilha você encontra 08 equipamentos com 17 sensores cada e um dos equipamentos é defeituoso.
+- Em cada linha você encontrara um modelo diferente de sensor que está instalado em cada um dos 08 equipamentos.
+- Em cada coluna você terá um equipamento e as medidas dos 17 sensores distintos.
+- Para esta atividade, não nos importa o que cada sensor mede, apenas os valores coletados.
+- Utilize uma ou mais LLMs para analisar o arquivo e lhe ajudar a descobrir qual é o equipamento defeituoso.
+- Atenção. Não acredite na primeira resposta obtida... Avaliei com cuidado.
+
+Obs.: Daria para resolver essa atividade usando apenas Excel com função estática.
+
+Atividade 03 - Criar uma versão da história "Chapeuzinho Vermelho".
+
+- Criar uma nova versão da história "Chapeuzinho Vermelho" como uma notícia de jornal, com um final inovador e divertido.
+- Deve ser integralmente criada por uma ou mais LLMs.
+- A noticia deve conter pelo menos 03 imagens que tenham ligação entre si e com o contexto da história (registro fotográfico da matéria). As imagens também devem ser geradas por uma rede generativa.
+- As imagens devem estar inseridas no texto de forma a enriquecer a notícia.
+- No final da notícia, inclua cada um dos prompts utilizados, na ordem do conteúdo da história.
+- A notícia deve estar montada em um arquivo PDF. O arquivo não poderá ter tamanho superior a 1MB. 

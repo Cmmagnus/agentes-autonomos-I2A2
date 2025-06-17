@@ -1,18 +1,15 @@
-# 👥 Colaboradores do Projeto
+# 👥 Contribuidores
 
-Este documento registra os autores e participantes que contribuíram com o desenvolvimento do repositório `agentes-autonomos-I2A2`.
+Este projeto é uma entrega **individual** de **Carlos Magno Marcelino**  
+para o curso **Agentes Autônomos com Redes Generativas – I2A2**.
 
----
+Até o momento, não há contribuições externas.
 
-| Nome                   | Função / Contribuição            |
-|------------------------|----------------------------------|
-| Carlos M. Marcelino    | Autor principal / Coordenação    |
-| Ewerton                | Desenvolvimento / ---------      |
-| Luis Antônio           | Desenvolvimento / ---------      |
-| Vivian                 | Desenvolvimento / ---------      |
-| Márcio Ferreira        | Desenvolvimento / ---------      |
-| Martins                | Desenvolvimento / ---------      |
+Se você deseja ser incluído(a) aqui, envie uma proposta de contribuição e aguarde aprovação.  
+Contribuições validadas e aceitas serão listadas abaixo:
 
 ---
 
-> Para adicionar seu nome aqui, edite este arquivo durante sua contribuição ou inclua no seu Pull Request.
+| Nome                   | Contribuição               |
+|------------------------|----------------------------|
+| Carlos Magno Marcelino | Autor principal (100%)     |
